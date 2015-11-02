@@ -23,11 +23,15 @@
   <ItemGroup>
     <Compile Include="withPython\083.Remove-Duplicates-from-Sorted-List\083.py" />
     <Compile Include="withPython\203.Remove-Linked-List-Elements\203.py" />
+    <Compile Include="withPython\100.Same Tree\100.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
     <Folder Include="withPython\083.Remove-Duplicates-from-Sorted-List" />
     <Folder Include="withPython\203.Remove-Linked-List-Elements" />
+    <Folder Include="withPython\100.Same Tree\" />
   </ItemGroup>
   <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
