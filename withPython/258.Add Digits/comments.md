@@ -1,14 +1,15 @@
 ###hot solution
 
-#####ideaÖ÷ÒªÀûÓÃ¡°×îÖÕ½á¹ûÖ»Ê£1Î»¡±µÄÒªÇóÒÔ¼°Êý×Ö9µÄÌØÐÔ¡£
+#####idea
+ä¸»è¦åˆ©ç”¨â€œæœ€ç»ˆç»“æžœåªå‰©1ä½â€çš„è¦æ±‚ä»¥åŠæ•°å­—9çš„ç‰¹æ€§ã€‚
 
-ÏÈ½«0µÄÇé¿öµ¥¶À¿¼ÂÇ¡£
+å…ˆå°†0çš„æƒ…å†µå•ç‹¬è€ƒè™‘ã€‚
 
-Ö®ºó¿¼ÂÇÒ»°ãÇé¿ö¡£ÒÔÒ»¸öÌØÊâÇé¿öÎªÀý£ºÈônumÎª9µÄ±¶Êý£¬Ôò¸ù¾Ý9µÄÐÔÖÊ£¬¼Óµ½1Î»ÊýÊ±±Ø¶¨Îª9¡£
-ÕâµãÏëÃ÷°×Ö®ºó£¬ÆäËûnum%9Ôò²»ÄÑÀí½â¡£
-ÐèÒª×¢ÒâµÄÊÇ£¬ÈônumÎª9µÄ±¶Êý£¬num%9½á¹ûÊÇ0¶ø²»ÊÇ9£¬Òò´ËÐèÒªµ¥¶ÀÁÐ³önum%9==0µÄÇé¿ö¡£
+ä¹‹åŽè€ƒè™‘ä¸€èˆ¬æƒ…å†µã€‚ä»¥ä¸€ä¸ªç‰¹æ®Šæƒ…å†µä¸ºä¾‹ï¼šè‹¥numä¸º9çš„å€æ•°ï¼Œåˆ™æ ¹æ®9çš„æ€§è´¨ï¼ŒåŠ åˆ°1ä½æ•°æ—¶å¿…å®šä¸º9ã€‚
+è¿™ç‚¹æƒ³æ˜Žç™½ä¹‹åŽï¼Œå…¶ä»–num%9åˆ™ä¸éš¾ç†è§£ã€‚
+éœ€è¦æ³¨æ„çš„æ˜¯ï¼Œè‹¥numä¸º9çš„å€æ•°ï¼Œnum%9ç»“æžœæ˜¯0è€Œä¸æ˜¯9ï¼Œå› æ­¤éœ€è¦å•ç‹¬åˆ—å‡ºnum%9==0çš„æƒ…å†µã€‚
 
-ÒÔÏÂÊÇhot solution´úÂë£º
+ä»¥ä¸‹æ˜¯hot solutionä»£ç ï¼š
 
 ```python
 def addDigits(self, num):
@@ -19,7 +20,7 @@ def addDigits(self, num):
     return num%9
 ```
 
-ÔÙÔËÓÃÓïÑÔÌØÐÔ£¬¿ÉÒÔÓÐ¸ü¼ò½àµÄ¸Ä½ø°æ±¾£º
+å†è¿ç”¨è¯­è¨€ç‰¹æ€§ï¼Œå¯ä»¥æœ‰æ›´ç®€æ´çš„æ”¹è¿›ç‰ˆæœ¬ï¼š
 
 ```python
 def addDigits(self, num):
