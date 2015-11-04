@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{00f043f6-cd6b-4005-b9e1-46211241030e}</ProjectGuid>
     <ProjectHome />
-    <StartupFile />
+    <StartupFile>withPython\283.Move Zeros\283.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -41,6 +41,12 @@
     <Compile Include="withPython\258.Add Digits\258.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\283.Move Zeros\283.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="withPython\292.Nim Game\292.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -52,12 +58,17 @@
     <Folder Include="withPython\217.Contains Duplicate\" />
     <Folder Include="withPython\237.Delete Node in a Linked List\" />
     <Folder Include="withPython\258.Add Digits\" />
+    <Folder Include="withPython\292.Nim Game\" />
+    <Folder Include="withPython\283.Move Zeros\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\237.Delete Node in a Linked List\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\258.Add Digits\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\283.Move Zeros\comments.md">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
