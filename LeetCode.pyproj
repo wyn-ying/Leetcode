@@ -38,6 +38,9 @@
     <Compile Include="withPython\237.Delete Node in a Linked List\237.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\258.Add Digits\258.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -48,9 +51,13 @@
     <Folder Include="withPython\136.Single Number\" />
     <Folder Include="withPython\217.Contains Duplicate\" />
     <Folder Include="withPython\237.Delete Node in a Linked List\" />
+    <Folder Include="withPython\258.Add Digits\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="withPython\237.Delete Node in a Linked List\idea.md">
+    <Content Include="withPython\237.Delete Node in a Linked List\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\258.Add Digits\comments.md">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
