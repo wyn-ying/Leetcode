@@ -47,6 +47,9 @@
     <Compile Include="withPython\292.Nim Game\292.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\226.Invert Binary Tree\226.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -60,6 +63,7 @@
     <Folder Include="withPython\258.Add Digits\" />
     <Folder Include="withPython\292.Nim Game\" />
     <Folder Include="withPython\283.Move Zeros\" />
+    <Folder Include="withPython\226.Invert Binary Tree\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\237.Delete Node in a Linked List\comments.md">
@@ -69,6 +73,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\283.Move Zeros\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\226.Invert Binary Tree\comments.md">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
