@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{00f043f6-cd6b-4005-b9e1-46211241030e}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>withPython\283.Move Zeros\283.py</StartupFile>
+    <StartupFile>withPython\260.Single Number III\260.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -13,6 +13,7 @@
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <InterpreterId />
     <InterpreterVersion />
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
@@ -44,6 +45,9 @@
     <Compile Include="withPython\258.Add Digits\258.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\260.Single Number III\260.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\283.Move Zeros\283.py">
       <SubType>Code</SubType>
     </Compile>
@@ -68,6 +72,7 @@
     <Folder Include="withPython\283.Move Zeros\" />
     <Folder Include="withPython\226.Invert Binary Tree\" />
     <Folder Include="withPython\122.Best Time to Buy and Sell Stock II\" />
+    <Folder Include="withPython\260.Single Number III\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
@@ -75,6 +80,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\258.Add Digits\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\260.Single Number III\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\283.Move Zeros\comments.md">
