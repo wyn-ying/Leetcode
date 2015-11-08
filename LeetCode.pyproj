@@ -22,11 +22,11 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="withPython\171.Excel Sheet Column Number\171.py" />
     <Compile Include="withPython\083.Remove Duplicates from Sorted List\083.py" />
     <Compile Include="withPython\122.Best Time to Buy and Sell Stock II\122.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\171.Excel Sheet Column Number\171.py" />
     <Compile Include="withPython\203.Remove Linked List Elements\203.py" />
     <Compile Include="withPython\100.Same Tree\100.py">
       <SubType>Code</SubType>
@@ -65,6 +65,7 @@
   <ItemGroup>
     <Folder Include="withPython\" />
     <Folder Include="withPython\083.Remove Duplicates from Sorted List\" />
+    <Folder Include="withPython\171.Excel Sheet Column Number\" />
     <Folder Include="withPython\203.Remove Linked List Elements\" />
     <Folder Include="withPython\100.Same Tree\" />
     <Folder Include="withPython\104.Maximum Depth of Binary Tree\" />
@@ -78,7 +79,6 @@
     <Folder Include="withPython\122.Best Time to Buy and Sell Stock II\" />
     <Folder Include="withPython\260.Single Number III\" />
     <Folder Include="withPython\238.Product of Array Except Self\" />
-    <Folder Include="withPython\171.Excel Sheet Column Number\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
