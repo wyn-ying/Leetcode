@@ -42,7 +42,7 @@
     <Compile Include="withPython\237.Delete Node in a Linked List\237.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="withPython\238.Product of Array Except Self\238.py">
+    <Compile Include="withPython\238.Product of Array Except Self\hot solution.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="withPython\258.Add Digits\258.py">
@@ -81,6 +81,9 @@
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
     <Content Include="withPython\237.Delete Node in a Linked List\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\238.Product of Array Except Self\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\258.Add Digits\comments.md">
