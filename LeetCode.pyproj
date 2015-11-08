@@ -42,6 +42,9 @@
     <Compile Include="withPython\237.Delete Node in a Linked List\237.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\238.Product of Array Except Self\238.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\258.Add Digits\258.py">
       <SubType>Code</SubType>
     </Compile>
@@ -73,6 +76,7 @@
     <Folder Include="withPython\226.Invert Binary Tree\" />
     <Folder Include="withPython\122.Best Time to Buy and Sell Stock II\" />
     <Folder Include="withPython\260.Single Number III\" />
+    <Folder Include="withPython\238.Product of Array Except Self\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />

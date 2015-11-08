@@ -37,7 +37,7 @@ class Solution:
 思路还是很巧妙的，尤其是构造lowbit并用来区分两个数，不太容易想到。
 
 ###time comsuming
-######my solution
+#####my solution
 600ms
 #####hot solution
 40ms

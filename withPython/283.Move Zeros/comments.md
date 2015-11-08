@@ -13,7 +13,7 @@ def moveZeroes(self, nums):
 思路：通过 not x，非0元素的key为0，0的key为1。于是sort之后非0元素都排到了前面。
 
 ###time comsuming
-######my solution
+#####my solution
 124ms
 #####hot solution
 68ms

@@ -10,7 +10,7 @@ class Solution(object):
 ```
 
 ###time comsuming
-######my solution
+#####my solution
 48ms
 #####hot solution
 64ms
