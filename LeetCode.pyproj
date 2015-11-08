@@ -40,6 +40,9 @@
     <Compile Include="withPython\217.Contains Duplicate\217.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\235.Lowest Common Ancestor of a Binary Search Tree\hot solution.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\237.Delete Node in a Linked List\237.py">
       <SubType>Code</SubType>
     </Compile>
@@ -83,10 +86,14 @@
     <Folder Include="withPython\260.Single Number III\" />
     <Folder Include="withPython\238.Product of Array Except Self\" />
     <Folder Include="withPython\242.Valid Anagram\" />
+    <Folder Include="withPython\235.Lowest Common Ancestor of a Binary Search Tree\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
     <Content Include="withPython\171.Excel Sheet Column Number\comments.md" />
+    <Content Include="withPython\235.Lowest Common Ancestor of a Binary Search Tree\comments.md">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="withPython\237.Delete Node in a Linked List\comments.md">
       <SubType>Code</SubType>
     </Content>
