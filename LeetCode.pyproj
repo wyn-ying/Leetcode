@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{00f043f6-cd6b-4005-b9e1-46211241030e}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>withPython\260.Single Number III\260.py</StartupFile>
+    <StartupFile>withPython\242.Valid Anagram\242.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -46,6 +46,9 @@
     <Compile Include="withPython\238.Product of Array Except Self\hot solution.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\242.Valid Anagram\242.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\258.Add Digits\258.py">
       <SubType>Code</SubType>
     </Compile>
@@ -79,6 +82,7 @@
     <Folder Include="withPython\122.Best Time to Buy and Sell Stock II\" />
     <Folder Include="withPython\260.Single Number III\" />
     <Folder Include="withPython\238.Product of Array Except Self\" />
+    <Folder Include="withPython\242.Valid Anagram\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
@@ -87,6 +91,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\238.Product of Array Except Self\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\242.Valid Anagram\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\258.Add Digits\comments.md">

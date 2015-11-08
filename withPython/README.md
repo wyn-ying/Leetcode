@@ -17,3 +17,4 @@
 260|Single Number III|15-11-5
 171|Excel Sheet Column Number|15-11-7
 238|Product of Array Except Self|15-11-8
+242|Valid Anagram|15-11-8
