@@ -22,6 +22,7 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="withPython\171.Excel Sheet Column Number\171.py" />
     <Compile Include="withPython\083.Remove Duplicates from Sorted List\083.py" />
     <Compile Include="withPython\122.Best Time to Buy and Sell Stock II\122.py">
       <SubType>Code</SubType>
@@ -77,9 +78,11 @@
     <Folder Include="withPython\122.Best Time to Buy and Sell Stock II\" />
     <Folder Include="withPython\260.Single Number III\" />
     <Folder Include="withPython\238.Product of Array Except Self\" />
+    <Folder Include="withPython\171.Excel Sheet Column Number\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
+    <Content Include="withPython\171.Excel Sheet Column Number\comments.md" />
     <Content Include="withPython\237.Delete Node in a Linked List\comments.md">
       <SubType>Code</SubType>
     </Content>
@@ -98,6 +101,7 @@
     <Content Include="withPython\226.Invert Binary Tree\comments.md">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="withPython\README.md" />
   </ItemGroup>
   <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
