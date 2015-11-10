@@ -4,13 +4,13 @@
 ###hot solution
 发现解法很多，有一个各种思路的汇总，包括了字典，位操作，排序，分治等，贴出[链接](https://leetcode.com/discuss/47783/different-solutions-dictionary-manipulation-sorting-conquer)。
 
-下面贴一个十分简洁漂亮的python程序，用的排序思路。
+下面贴一个十分简洁漂亮的python程序，用的排序思路，速度也很快。
 很巧妙利用了题目条件，即频率超过`? n/2 ?`的数一定存在。因此经过排序后，数组中间位置的数一定是要找的数。
 （想象一段长度过半的数字段在整个数组段中前后移动）
 ```python
 class Solution(object):
     def majorityElement(self, nums):
-	    return sorted(num)[len(num)/2]
+	    return sorted(nums)[len(nums)/2]
 ```
 
 #####other code
@@ -43,9 +43,4 @@ public class Solution {
 #####my solution
 60ms
 #####hot solution
-######solution1
-104ms
-######solution2
-88ms
-######solution3
-96ms
+44ms
