@@ -26,6 +26,9 @@
     <Compile Include="withPython\122.Best Time to Buy and Sell Stock II\122.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\144.Binary Tree Preorder Traversal\144.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\169.Majority Element\169.py">
       <SubType>Code</SubType>
     </Compile>
@@ -99,10 +102,14 @@
     <Folder Include="withPython\191.Number of 1 Bits\" />
     <Folder Include="withPython\169.Majority Element\" />
     <Folder Include="withPython\094.Binary Tree Inorder Traversal\" />
+    <Folder Include="withPython\144.Binary Tree Preorder Traversal\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
     <Content Include="withPython\094.Binary Tree Inorder Traversal\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\144.Binary Tree Preorder Traversal\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\169.Majority Element\comments.md">
