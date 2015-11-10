@@ -26,6 +26,9 @@
     <Compile Include="withPython\122.Best Time to Buy and Sell Stock II\122.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\169.Majority Element\169.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\171.Excel Sheet Column Number\171.py" />
     <Compile Include="withPython\191.Number of 1 Bits\191.py">
       <SubType>Code</SubType>
@@ -91,9 +94,13 @@
     <Folder Include="withPython\242.Valid Anagram\" />
     <Folder Include="withPython\235.Lowest Common Ancestor of a Binary Search Tree\" />
     <Folder Include="withPython\191.Number of 1 Bits\" />
+    <Folder Include="withPython\169.Majority Element\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
+    <Content Include="withPython\169.Majority Element\comments.md">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="withPython\171.Excel Sheet Column Number\comments.md" />
     <Content Include="withPython\191.Number of 1 Bits\comments.md">
       <SubType>Code</SubType>
