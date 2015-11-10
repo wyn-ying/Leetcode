@@ -73,6 +73,9 @@
     <Compile Include="withPython\226.Invert Binary Tree\226.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\094.Binary Tree Inorder Traversal\094.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -95,9 +98,13 @@
     <Folder Include="withPython\235.Lowest Common Ancestor of a Binary Search Tree\" />
     <Folder Include="withPython\191.Number of 1 Bits\" />
     <Folder Include="withPython\169.Majority Element\" />
+    <Folder Include="withPython\094.Binary Tree Inorder Traversal\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
+    <Content Include="withPython\094.Binary Tree Inorder Traversal\comments.md">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="withPython\169.Majority Element\comments.md">
       <SubType>Code</SubType>
     </Content>
