@@ -10,7 +10,7 @@
 ```python
 def lowestCommonAncestor(self, root, p, q):
     while (root.val - p.val) * (root.val - q.val) > 0:
-        root = (root.left, root.right)[p.val > root.val]
+        root = (root.left, root.right)[p.val > root.val]	#python中(x,y)[expression]类似：？运算符,True为y，False为x
     return root
 ```
 然而感觉效率并不高，有时间再自己写一个或看看其他hot solution
