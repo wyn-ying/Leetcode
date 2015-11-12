@@ -26,6 +26,9 @@
     <Compile Include="withPython\122.Best Time to Buy and Sell Stock II\122.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\141.Linked List Cycle\141.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\144.Binary Tree Preorder Traversal\144.py">
       <SubType>Code</SubType>
     </Compile>
@@ -107,10 +110,14 @@
     <Folder Include="withPython\094.Binary Tree Inorder Traversal\" />
     <Folder Include="withPython\144.Binary Tree Preorder Traversal\" />
     <Folder Include="withPython\268.Missing Number\" />
+    <Folder Include="withPython\141.Linked List Cycle\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
     <Content Include="withPython\094.Binary Tree Inorder Traversal\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\141.Linked List Cycle\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\144.Binary Tree Preorder Traversal\comments.md">
