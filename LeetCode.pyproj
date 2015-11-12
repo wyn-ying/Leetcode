@@ -67,6 +67,9 @@
     <Compile Include="withPython\260.Single Number III\260.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\268.Missing Number\268.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\283.Move Zeros\283.py">
       <SubType>Code</SubType>
     </Compile>
@@ -103,6 +106,7 @@
     <Folder Include="withPython\169.Majority Element\" />
     <Folder Include="withPython\094.Binary Tree Inorder Traversal\" />
     <Folder Include="withPython\144.Binary Tree Preorder Traversal\" />
+    <Folder Include="withPython\268.Missing Number\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
@@ -135,6 +139,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\260.Single Number III\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\268.Missing Number\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\283.Move Zeros\comments.md">
