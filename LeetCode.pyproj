@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="withPython\083.Remove Duplicates from Sorted List\083.py" />
+    <Compile Include="withPython\116.Populating Next Right Pointers in Each Node\116.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\122.Best Time to Buy and Sell Stock II\122.py">
       <SubType>Code</SubType>
     </Compile>
@@ -111,8 +114,12 @@
     <Folder Include="withPython\144.Binary Tree Preorder Traversal\" />
     <Folder Include="withPython\268.Missing Number\" />
     <Folder Include="withPython\141.Linked List Cycle\" />
+    <Folder Include="withPython\116.Populating Next Right Pointers in Each Node\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="withPython\116.Populating Next Right Pointers in Each Node\comments.md">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
     <Content Include="withPython\094.Binary Tree Inorder Traversal\comments.md">
       <SubType>Code</SubType>
