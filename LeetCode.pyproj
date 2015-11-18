@@ -22,6 +22,9 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="withPython\035.Search Insert Position\035.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\083.Remove Duplicates from Sorted List\083.py" />
     <Compile Include="withPython\096.Unique Binary Search Trees\096.py">
       <SubType>Code</SubType>
@@ -120,9 +123,13 @@
     <Folder Include="withPython\116.Populating Next Right Pointers in Each Node\" />
     <Folder Include="withPython\096.Unique Binary Search Trees\" />
     <Folder Include="withPython\013.Roman to Integer\" />
+    <Folder Include="withPython\035.Search Insert Position\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\013.Roman to Integer\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\035.Search Insert Position\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\096.Unique Binary Search Trees\comments.md">
