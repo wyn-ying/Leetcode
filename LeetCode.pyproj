@@ -35,6 +35,9 @@
     <Compile Include="withPython\122.Best Time to Buy and Sell Stock II\122.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\137.Single Number II\137.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\141.Linked List Cycle\141.py">
       <SubType>Code</SubType>
     </Compile>
@@ -124,6 +127,7 @@
     <Folder Include="withPython\096.Unique Binary Search Trees\" />
     <Folder Include="withPython\013.Roman to Integer\" />
     <Folder Include="withPython\035.Search Insert Position\" />
+    <Folder Include="withPython\137.Single Number II\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\013.Roman to Integer\comments.md">
@@ -140,6 +144,9 @@
     </Content>
     <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
     <Content Include="withPython\094.Binary Tree Inorder Traversal\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\137.Single Number II\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\141.Linked List Cycle\comments.md">
