@@ -22,6 +22,9 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="withPython\012.Integer to Roman\012.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\035.Search Insert Position\035.py">
       <SubType>Code</SubType>
     </Compile>
@@ -132,8 +135,12 @@
     <Folder Include="withPython\035.Search Insert Position\" />
     <Folder Include="withPython\137.Single Number II\" />
     <Folder Include="withPython\206.Reverse Linked List\" />
+    <Folder Include="withPython\012.Integer to Roman\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="withPython\012.Integer to Roman\comments.md">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="withPython\013.Roman to Integer\comments.md">
       <SubType>Code</SubType>
     </Content>
