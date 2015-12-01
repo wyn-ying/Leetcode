@@ -28,6 +28,9 @@
     <Compile Include="withPython\035.Search Insert Position\035.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\053.Maximum Subarray\053.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\070.Climbing Stairs\070.py">
       <SubType>Code</SubType>
     </Compile>
@@ -140,6 +143,7 @@
     <Folder Include="withPython\206.Reverse Linked List\" />
     <Folder Include="withPython\012.Integer to Roman\" />
     <Folder Include="withPython\070.Climbing Stairs\" />
+    <Folder Include="withPython\053.Maximum Subarray\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\comments.md">
@@ -149,6 +153,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\035.Search Insert Position\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\053.Maximum Subarray\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\070.Climbing Stairs\comments.md">
