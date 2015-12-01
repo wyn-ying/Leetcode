@@ -28,6 +28,9 @@
     <Compile Include="withPython\035.Search Insert Position\035.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\070.Climbing Stairs\070.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\083.Remove Duplicates from Sorted List\083.py" />
     <Compile Include="withPython\096.Unique Binary Search Trees\096.py">
       <SubType>Code</SubType>
@@ -136,6 +139,7 @@
     <Folder Include="withPython\137.Single Number II\" />
     <Folder Include="withPython\206.Reverse Linked List\" />
     <Folder Include="withPython\012.Integer to Roman\" />
+    <Folder Include="withPython\070.Climbing Stairs\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\comments.md">
@@ -145,6 +149,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\035.Search Insert Position\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\070.Climbing Stairs\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\096.Unique Binary Search Trees\comments.md">
