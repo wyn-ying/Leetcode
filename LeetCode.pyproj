@@ -94,6 +94,9 @@
     <Compile Include="withPython\283.Move Zeros\283.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\287.Find the Duplicate Number\comments.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\292.Nim Game\292.py">
       <SubType>Code</SubType>
     </Compile>
@@ -101,6 +104,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="withPython\094.Binary Tree Inorder Traversal\094.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="withPython\108.Convert Sorted Array to Binary Search Tree\108.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -136,6 +142,8 @@
     <Folder Include="withPython\137.Single Number II\" />
     <Folder Include="withPython\206.Reverse Linked List\" />
     <Folder Include="withPython\012.Integer to Roman\" />
+    <Folder Include="withPython\287.Find the Duplicate Number\" />
+    <Folder Include="withPython\108.Convert Sorted Array to Binary Search Tree\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\comments.md">
@@ -201,6 +209,12 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\226.Invert Binary Tree\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\287.Find the Duplicate Number\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\108.Convert Sorted Array to Binary Search Tree\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\README.md" />
