@@ -33,4 +33,6 @@
 206|Reverse Linked List|15-11-21
 012|Integer to Roman|15-11-21
 287|Find the Duplicate Number|15-11-30
+070|Climbing Stairs|15-12-1
+053|Maximum Subarray|15-12-1
 108|Convert Sorted Array to Binary Search Tree|15-12-14
