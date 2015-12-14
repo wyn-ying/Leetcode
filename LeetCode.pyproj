@@ -53,6 +53,9 @@
     <Compile Include="withPython\144.Binary Tree Preorder Traversal\144.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\153.Find Minimum in Rotated Sorted Array\153.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\169.Majority Element\169.py">
       <SubType>Code</SubType>
     </Compile>
@@ -152,6 +155,7 @@
     <Folder Include="withPython\070.Climbing Stairs\" />
     <Folder Include="withPython\053.Maximum Subarray\" />
     <Folder Include="withPython\108.Convert Sorted Array to Binary Search Tree\" />
+    <Folder Include="withPython\153.Find Minimum in Rotated Sorted Array\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\comments.md">
@@ -186,6 +190,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\144.Binary Tree Preorder Traversal\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\153.Find Minimum in Rotated Sorted Array\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\169.Majority Element\comments.md">
