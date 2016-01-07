@@ -97,6 +97,9 @@
     <Compile Include="withPython\260.Single Number III\260.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\263.Ugly Number\263.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\268.Missing Number\268.py">
       <SubType>Code</SubType>
     </Compile>
@@ -156,6 +159,7 @@
     <Folder Include="withPython\053.Maximum Subarray\" />
     <Folder Include="withPython\108.Convert Sorted Array to Binary Search Tree\" />
     <Folder Include="withPython\153.Find Minimum in Rotated Sorted Array\" />
+    <Folder Include="withPython\263.Ugly Number\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\comments.md">
@@ -221,6 +225,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\260.Single Number III\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\263.Ugly Number\comments.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\268.Missing Number\comments.md">
