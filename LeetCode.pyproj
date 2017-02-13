@@ -124,6 +124,7 @@
     <Compile Include="withPython\319. Bulb Switcher\319.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\461. Hamming Distance\416.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -164,6 +165,7 @@
     <Folder Include="withPython\153.Find Minimum in Rotated Sorted Array\" />
     <Folder Include="withPython\263.Ugly Number\" />
     <Folder Include="withPython\319. Bulb Switcher\" />
+    <Folder Include="withPython\461. Hamming Distance\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\comments.md">
@@ -250,6 +252,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\319. Bulb Switcher\comments.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\461. Hamming Distance\comment.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\README.md" />
