@@ -125,6 +125,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="withPython\461. Hamming Distance\416.py" />
+    <Compile Include="withPython\476. Number Complement\476.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="withPython\476. Number Complement\comments.md">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -166,6 +172,7 @@
     <Folder Include="withPython\263.Ugly Number\" />
     <Folder Include="withPython\319. Bulb Switcher\" />
     <Folder Include="withPython\461. Hamming Distance\" />
+    <Folder Include="withPython\476. Number Complement\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\comments.md">
