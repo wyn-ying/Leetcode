@@ -128,7 +128,7 @@
     <Compile Include="withPython\476. Number Complement\476.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="withPython\476. Number Complement\comments.md">
+    <Compile Include="withPython\476. Number Complement\README.md">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -175,93 +175,93 @@
     <Folder Include="withPython\476. Number Complement\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="withPython\012.Integer to Roman\comments.md">
+    <Content Include="withPython\012.Integer to Roman\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\013.Roman to Integer\comments.md">
+    <Content Include="withPython\013.Roman to Integer\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\035.Search Insert Position\comments.md">
+    <Content Include="withPython\035.Search Insert Position\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\053.Maximum Subarray\comments.md">
+    <Content Include="withPython\053.Maximum Subarray\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\070.Climbing Stairs\comments.md">
+    <Content Include="withPython\070.Climbing Stairs\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\096.Unique Binary Search Trees\comments.md">
+    <Content Include="withPython\096.Unique Binary Search Trees\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\116.Populating Next Right Pointers in Each Node\comments.md">
+    <Content Include="withPython\116.Populating Next Right Pointers in Each Node\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\122.Best Time to Buy and Sell Stock II\comments.md" />
-    <Content Include="withPython\094.Binary Tree Inorder Traversal\comments.md">
+    <Content Include="withPython\122.Best Time to Buy and Sell Stock II\README.md" />
+    <Content Include="withPython\094.Binary Tree Inorder Traversal\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\137.Single Number II\comments.md">
+    <Content Include="withPython\137.Single Number II\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\141.Linked List Cycle\comments.md">
+    <Content Include="withPython\141.Linked List Cycle\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\144.Binary Tree Preorder Traversal\comments.md">
+    <Content Include="withPython\144.Binary Tree Preorder Traversal\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\153.Find Minimum in Rotated Sorted Array\comments.md">
+    <Content Include="withPython\153.Find Minimum in Rotated Sorted Array\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\169.Majority Element\comments.md">
+    <Content Include="withPython\169.Majority Element\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\171.Excel Sheet Column Number\comments.md" />
-    <Content Include="withPython\191.Number of 1 Bits\comments.md">
+    <Content Include="withPython\171.Excel Sheet Column Number\README.md" />
+    <Content Include="withPython\191.Number of 1 Bits\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\206.Reverse Linked List\comments.md">
+    <Content Include="withPython\206.Reverse Linked List\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\235.Lowest Common Ancestor of a Binary Search Tree\comments.md">
+    <Content Include="withPython\235.Lowest Common Ancestor of a Binary Search Tree\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\237.Delete Node in a Linked List\comments.md">
+    <Content Include="withPython\237.Delete Node in a Linked List\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\238.Product of Array Except Self\comments.md">
+    <Content Include="withPython\238.Product of Array Except Self\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\242.Valid Anagram\comments.md">
+    <Content Include="withPython\242.Valid Anagram\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\258.Add Digits\comments.md">
+    <Content Include="withPython\258.Add Digits\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\260.Single Number III\comments.md">
+    <Content Include="withPython\260.Single Number III\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\263.Ugly Number\comments.md">
+    <Content Include="withPython\263.Ugly Number\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\268.Missing Number\comments.md">
+    <Content Include="withPython\268.Missing Number\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\283.Move Zeros\comments.md">
+    <Content Include="withPython\283.Move Zeros\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\226.Invert Binary Tree\comments.md">
+    <Content Include="withPython\226.Invert Binary Tree\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\287.Find the Duplicate Number\comments.md">
+    <Content Include="withPython\287.Find the Duplicate Number\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\108.Convert Sorted Array to Binary Search Tree\comments.md">
+    <Content Include="withPython\108.Convert Sorted Array to Binary Search Tree\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\319. Bulb Switcher\comments.md">
+    <Content Include="withPython\319. Bulb Switcher\README.md">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="withPython\461. Hamming Distance\comment.md">
+    <Content Include="withPython\461. Hamming Distance\README.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\README.md" />
