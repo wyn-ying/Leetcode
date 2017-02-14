@@ -131,6 +131,9 @@
     <Compile Include="withPython\476. Number Complement\README.md">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\500. Keyboard Row\500.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -173,6 +176,7 @@
     <Folder Include="withPython\319. Bulb Switcher\" />
     <Folder Include="withPython\461. Hamming Distance\" />
     <Folder Include="withPython\476. Number Complement\" />
+    <Folder Include="withPython\500. Keyboard Row\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -262,6 +266,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\461. Hamming Distance\README.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\500. Keyboard Row\README.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\README.md" />

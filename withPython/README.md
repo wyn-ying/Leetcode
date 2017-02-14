@@ -41,3 +41,4 @@
 319|Bulb Switcher|16-1-7
 461|Hamming Distance|17-2-13
 476|Number Complement|17-2-13
+500|Keyboard Row|17-2-14
