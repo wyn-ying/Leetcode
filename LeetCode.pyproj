@@ -124,6 +124,9 @@
     <Compile Include="withPython\319. Bulb Switcher\319.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\419. Battleships in a Board\419.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\461. Hamming Distance\416.py" />
     <Compile Include="withPython\476. Number Complement\476.py">
       <SubType>Code</SubType>
@@ -177,6 +180,7 @@
     <Folder Include="withPython\461. Hamming Distance\" />
     <Folder Include="withPython\476. Number Complement\" />
     <Folder Include="withPython\500. Keyboard Row\" />
+    <Folder Include="withPython\419. Battleships in a Board\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -263,6 +267,9 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\319. Bulb Switcher\README.md">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="withPython\419. Battleships in a Board\README.md">
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\461. Hamming Distance\README.md">
