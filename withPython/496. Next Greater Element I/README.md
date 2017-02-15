@@ -22,7 +22,7 @@ public int[] nextGreaterElement(int[] findNums, int[] nums) {
 }
 ```
 同时也找到了这段代码的python版本
-```pyhton
+```python
 def nextGreaterElement(self, findNums, nums):
 	d = {}
     st = []
