@@ -124,6 +124,9 @@
     <Compile Include="withPython\319. Bulb Switcher\319.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\338. Counting Bits\338.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\419. Battleships in a Board\419.py">
       <SubType>Code</SubType>
     </Compile>
@@ -181,6 +184,7 @@
     <Folder Include="withPython\476. Number Complement\" />
     <Folder Include="withPython\500. Keyboard Row\" />
     <Folder Include="withPython\419. Battleships in a Board\" />
+    <Folder Include="withPython\338. Counting Bits\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -269,6 +273,7 @@
     <Content Include="withPython\319. Bulb Switcher\README.md">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="withPython\338. Counting Bits\README.md" />
     <Content Include="withPython\419. Battleships in a Board\README.md">
       <SubType>Code</SubType>
     </Content>
