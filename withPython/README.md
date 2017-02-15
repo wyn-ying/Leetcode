@@ -44,3 +44,4 @@
 500|Keyboard Row|17-2-14
 419|Battleships in a Board|17-2-14
 338|Counting Bits|17-2-15
+496|Next Greater Element I|17-2-15

@@ -137,6 +137,9 @@
     <Compile Include="withPython\476. Number Complement\README.md">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\496. Next Greater Element I\496.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\500. Keyboard Row\500.py">
       <SubType>Code</SubType>
     </Compile>
@@ -185,6 +188,7 @@
     <Folder Include="withPython\500. Keyboard Row\" />
     <Folder Include="withPython\419. Battleships in a Board\" />
     <Folder Include="withPython\338. Counting Bits\" />
+    <Folder Include="withPython\496. Next Greater Element I\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -280,6 +284,7 @@
     <Content Include="withPython\461. Hamming Distance\README.md">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="withPython\496. Next Greater Element I\README.md" />
     <Content Include="withPython\500. Keyboard Row\README.md">
       <SubType>Code</SubType>
     </Content>
