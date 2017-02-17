@@ -48,3 +48,4 @@
 412|Fizz Buzz|17-2-16
 344|Reverse String|17-2-16
 463|Island Perimeter|17-2-16
+485|Max Consecutive Ones|17-2-17
