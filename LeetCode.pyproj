@@ -130,6 +130,9 @@
     <Compile Include="withPython\344. Reverse String\344.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\406. Queue Reconstruction by Height\406.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\412. Fizz Buzz\412.py">
       <SubType>Code</SubType>
     </Compile>
@@ -144,6 +147,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="withPython\476. Number Complement\README.md">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="withPython\485. Max Consecutive Ones\485.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="withPython\496. Next Greater Element I\496.py">
@@ -201,6 +207,8 @@
     <Folder Include="withPython\412. Fizz Buzz\" />
     <Folder Include="withPython\344. Reverse String\" />
     <Folder Include="withPython\463. Island Perimeter\" />
+    <Folder Include="withPython\485. Max Consecutive Ones\" />
+    <Folder Include="withPython\406. Queue Reconstruction by Height\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -291,6 +299,7 @@
     </Content>
     <Content Include="withPython\338. Counting Bits\README.md" />
     <Content Include="withPython\344. Reverse String\README.md" />
+    <Content Include="withPython\406. Queue Reconstruction by Height\README.md" />
     <Content Include="withPython\412. Fizz Buzz\README.md" />
     <Content Include="withPython\419. Battleships in a Board\README.md">
       <SubType>Code</SubType>
@@ -299,6 +308,7 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\463. Island Perimeter\README.md" />
+    <Content Include="withPython\485. Max Consecutive Ones\README.md" />
     <Content Include="withPython\496. Next Greater Element I\README.md" />
     <Content Include="withPython\500. Keyboard Row\README.md">
       <SubType>Code</SubType>
