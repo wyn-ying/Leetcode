@@ -50,3 +50,4 @@
 463|Island Perimeter|17-2-16
 485|Max Consecutive Ones|17-2-17
 406|Queue Reconstruction by Height|17-2-17
+413|Arithmetic Slices|17-2-20

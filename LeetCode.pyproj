@@ -136,6 +136,9 @@
     <Compile Include="withPython\412. Fizz Buzz\412.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\413. Arithmetic Slices\413.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\419. Battleships in a Board\419.py">
       <SubType>Code</SubType>
     </Compile>
@@ -209,6 +212,7 @@
     <Folder Include="withPython\463. Island Perimeter\" />
     <Folder Include="withPython\485. Max Consecutive Ones\" />
     <Folder Include="withPython\406. Queue Reconstruction by Height\" />
+    <Folder Include="withPython\413. Arithmetic Slices\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -301,6 +305,7 @@
     <Content Include="withPython\344. Reverse String\README.md" />
     <Content Include="withPython\406. Queue Reconstruction by Height\README.md" />
     <Content Include="withPython\412. Fizz Buzz\README.md" />
+    <Content Include="withPython\413. Arithmetic Slices\README.md" />
     <Content Include="withPython\419. Battleships in a Board\README.md">
       <SubType>Code</SubType>
     </Content>
