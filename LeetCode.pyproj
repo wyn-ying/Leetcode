@@ -161,6 +161,9 @@
     <Compile Include="withPython\500. Keyboard Row\500.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\513. Find Bottom Left Tree Value\513.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="withPython\" />
@@ -213,6 +216,7 @@
     <Folder Include="withPython\485. Max Consecutive Ones\" />
     <Folder Include="withPython\406. Queue Reconstruction by Height\" />
     <Folder Include="withPython\413. Arithmetic Slices\" />
+    <Folder Include="withPython\513. Find Bottom Left Tree Value\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -318,6 +322,7 @@
     <Content Include="withPython\500. Keyboard Row\README.md">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="withPython\513. Find Bottom Left Tree Value\README.md" />
     <Content Include="withPython\README.md" />
   </ItemGroup>
   <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
