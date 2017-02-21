@@ -142,6 +142,9 @@
     <Compile Include="withPython\419. Battleships in a Board\419.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\448. Find All Numbers Disappeared in an Array\448.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\461. Hamming Distance\416.py" />
     <Compile Include="withPython\463. Island Perimeter\463.py">
       <SubType>Code</SubType>
@@ -162,6 +165,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="withPython\513. Find Bottom Left Tree Value\513.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="withPython\520. Detect Capital\520.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -217,6 +223,8 @@
     <Folder Include="withPython\406. Queue Reconstruction by Height\" />
     <Folder Include="withPython\413. Arithmetic Slices\" />
     <Folder Include="withPython\513. Find Bottom Left Tree Value\" />
+    <Folder Include="withPython\520. Detect Capital\" />
+    <Folder Include="withPython\448. Find All Numbers Disappeared in an Array\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -313,6 +321,7 @@
     <Content Include="withPython\419. Battleships in a Board\README.md">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="withPython\448. Find All Numbers Disappeared in an Array\README.md" />
     <Content Include="withPython\461. Hamming Distance\README.md">
       <SubType>Code</SubType>
     </Content>
@@ -323,6 +332,7 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="withPython\513. Find Bottom Left Tree Value\README.md" />
+    <Content Include="withPython\520. Detect Capital\README.md" />
     <Content Include="withPython\README.md" />
   </ItemGroup>
   <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
