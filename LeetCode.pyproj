@@ -164,6 +164,9 @@
     <Compile Include="withPython\500. Keyboard Row\500.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="withPython\508. Most Frequent Subtree Sum\508.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="withPython\513. Find Bottom Left Tree Value\513.py">
       <SubType>Code</SubType>
     </Compile>
@@ -229,6 +232,7 @@
     <Folder Include="withPython\520. Detect Capital\" />
     <Folder Include="withPython\448. Find All Numbers Disappeared in an Array\" />
     <Folder Include="withPython\515. Find Largest Value in Each Tree Row\" />
+    <Folder Include="withPython\508. Most Frequent Subtree Sum\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="withPython\012.Integer to Roman\README.md">
@@ -335,6 +339,7 @@
     <Content Include="withPython\500. Keyboard Row\README.md">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="withPython\508. Most Frequent Subtree Sum\README.md" />
     <Content Include="withPython\513. Find Bottom Left Tree Value\README.md" />
     <Content Include="withPython\515. Find Largest Value in Each Tree Row\README.md" />
     <Content Include="withPython\520. Detect Capital\README.md" />
